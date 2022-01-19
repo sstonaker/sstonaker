@@ -7,3 +7,4 @@ I have built Python scripts and GUI programs to solve engineering problems in my
 
 ### I'm interested improving my knowledge of working with relational and non-relational databases.
  If you have fun project ideas and are looking for a partner, I'm interested!
+ 
