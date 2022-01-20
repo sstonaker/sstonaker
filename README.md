@@ -6,7 +6,7 @@ I have built Python scripts and GUI programs to solve engineering problems in my
 ### I'm interested improving my knowledge of working with relational and non-relational databases.
  If you have fun project ideas and are looking for a partner, I'm interested!
  
-### Woorking through freeCodeCamp.org Bootcamp
+### Working through freeCodeCamp.org Bootcamp
  
 ### I'm comfortable with
 
@@ -16,6 +16,7 @@ I have built Python scripts and GUI programs to solve engineering problems in my
 
 ### I'm working on
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=plastic&logo=postgresql)
 
 ### Next Up
 ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
