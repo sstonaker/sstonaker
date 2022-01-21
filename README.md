@@ -23,6 +23,6 @@ I have built Python scripts and GUI programs to solve engineering problems in my
 ![Django](https://img.shields.io/badge/-Django-black?style=plastic&logo=django)
 
 ## Stats
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstonaker&show_icons=true&theme=dark)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstonaker&show_icons=true&theme=dark)](https://github.com/sstonaker)]
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstonaker&theme=dark&layout=compact)](https://github.com/sstonaker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstonaker&theme=dark&layout=compact)](https://github.com/sstonaker)]
