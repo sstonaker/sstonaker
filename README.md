@@ -10,19 +10,20 @@ I have built Python scripts and GUI programs to solve engineering problems in my
  
 ### I'm comfortable with
 
-![HTML5](https://img.shields.io/badge/-HTML-black?style=plastic&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-black?style=plastic&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python)
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" />
+
 
 ### I'm working on
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-black?style=plastic&logo=postgresql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75" />
+
 
 ### Next Up
-![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
-![Django](https://img.shields.io/badge/-Django-black?style=plastic&logo=django)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="75" />
+
 
 ## Stats
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstonaker&show_icons=true&theme=dark)](https://github.com/sstonaker)]
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstonaker&theme=dark&layout=compact)](https://github.com/sstonaker)]
