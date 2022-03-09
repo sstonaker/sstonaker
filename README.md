@@ -1,5 +1,3 @@
-## Professional Engineer seeking fulltime opportunity as a Software Engineer
-
 ### I am comfortable with Python, have worked through intermediate skills, and am using texts such as Python 3 Cookbook, and Learning Python to gain expert proficiency.
 I have built Python scripts and GUI programs to solve engineering problems in my current role as an Operations Engineer in the Oil & Gas industry.
 
