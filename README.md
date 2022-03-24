@@ -1,8 +1,8 @@
 ## Operations Engineer
 
-Former Petroleum Engineer now working in tech
+Former Petroleum Engineer now working in tech.
 
-freeCodeCamp.org Alumni & Contributor
+freeCodeCamp.org Alumni & Contributor.
  
 ## Working with
 
